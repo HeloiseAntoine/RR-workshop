@@ -1,11 +1,11 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Add your name <br>
-**Date:** XX/XX/XXXX   <br>
-**Course:** Add your cursus <br>
+**Name of the student:** Héloïse Antoine
+**Date:** 01/02/2021
+**Course:** CI15 3AI
 
 ## Purpose
-> The purpose of thi repository contains the files and tutorial on the reproducible research.
+> The purpose of this repository contains the files and tutorial on the reproducible research.
 This is part of the 'Introduction to scientific research module' at ENSGSI.
 
 The course will introduce writing reproducible reports using R Markdown and version control. 
